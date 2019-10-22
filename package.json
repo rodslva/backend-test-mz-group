@@ -1,0 +1,14 @@
+{
+  "name": "backend-test-mz-group",
+  "version": "1.0.0",
+  "description": "",
+  "main": "happyNumber.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rodrigo Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
