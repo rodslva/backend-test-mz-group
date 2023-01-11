@@ -9,6 +9,6 @@
   "author": "Rodrigo Silva",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^29.3.1"
   }
 }
